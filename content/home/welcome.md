@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: |
+title: 
   VVSChile
 hero_media: welcome.jpg
 design:
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-El **Proyecto de evaluación de Red de Víctimas de Violencia Sexual en Chile** pretende caracterizar la respuesta de la red de atención a las víctimas de violencia sexual, sus actores, resultados y necesidades a nivel nacional. Esto se realizará a través de una aproximación basada en métodos mixtos que incluirá la caracterización de las víctimas de violencia sexual en Chile, una identificación de las prestaciones en los distintos niveles de atención disponibles en la materia, un análisis de las brechas y barreras en la utilización de los servicios existentes y de la integralidad de la red.
+El **Proyecto de evaluación de Red de Víctimas de Violencia Sexual en Chile** pretende caracterizar la respuesta de la red de atención a las víctimas de violencia sexual, sus actores, resultados y necesidades a nivel nacional.
