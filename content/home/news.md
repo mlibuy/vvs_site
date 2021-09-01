@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: Caracterización de la Encuesta Nacional de Violencia Intrafamiliar
 subtitle:
 
 content:
